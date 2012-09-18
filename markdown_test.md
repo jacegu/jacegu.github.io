@@ -1,7 +1,10 @@
-=This is a page
+---
+title: Markdown Test
+---
 
-Written in markdown because:
+# markdown
+
+Markdown is cool and allows you to write things quite easily:
 
 - markdown is cool
 - markdown is easy
-- markdown is supported by github pages
